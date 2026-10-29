@@ -1,0 +1,6 @@
+{
+  "name": "Aegis Care Hospital & Patient Portal",
+  "description": "A clean hospital website featuring departments, doctor directory, 24/7 emergency care, appointment booking, and a secure Patient & Staff Login Portal with medical details.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
